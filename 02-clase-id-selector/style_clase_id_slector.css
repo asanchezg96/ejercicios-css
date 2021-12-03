@@ -1,0 +1,17 @@
+.impar{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, sans-serif;
+}
+.imparcool{
+    font-size: 24px;
+}
+#dos{
+    color:  #0000ff;
+    font-size: 36px;
+}
+
+#cuatro{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
